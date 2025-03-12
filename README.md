@@ -5,7 +5,7 @@
 
 ### Arroyo John Matthew [![Arroyo's Website](https://img.shields.io/badge/Netlify-Arroyo-green?style=for-the-badge&logo=netlify)](https://arroyo-johnmatthew.netlify.app)
 
-### Delima Justine [![Delima's Website](https://img.shields.io/badge/Netlify-Delima-blue?style=for-the-badge&logo=netlify)](<delima-website-link>)
+### Delima Justine [![Delima's Website](https://img.shields.io/badge/Netlify-Delima-blue?style=for-the-badge&logo=netlify)](https://delima-justine.netlify.app)
 
 
 ### Relente Patricia Joy [![Relente's Website](https://img.shields.io/badge/Netlify-Relente-pink?style=for-the-badge&logo=netlify)](https://relente-patriciajoy.netlify.app)
